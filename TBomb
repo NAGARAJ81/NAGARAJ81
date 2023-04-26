@@ -1,0 +1,7 @@
+
+apt update 
+apt upgrade
+Pkg install python
+Pkg install git
+git clone 
+           
